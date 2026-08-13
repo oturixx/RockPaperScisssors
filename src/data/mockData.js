@@ -1,6 +1,5 @@
 export const choices = [
-    {id:1, name:'Taş', image: require('../assets/tas.png')},
-    {id:2, name:'Kağıt', image: require('../assets/kagit.png')},
-    {id:3, name:'Makas', image: require('../assets/makas.png')},
-
+    {id:1, name:'Rock', image: require('../assets/rock.png')},
+    {id:2, name:'Paper', image: require('../assets/paper.png')},
+    {id:3, name:'Scissors', image: require('../assets/scissors.png')},
 ]
